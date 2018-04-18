@@ -1,0 +1,13 @@
+{
+  "name": "file-wrapper",
+  "version": "0.1.0",
+  "description": "A small class wrapping a node file to provide some common fields.",
+  "main": "index.js",
+  "author": "Lorenzo Ruiz <lorenzo@drawbotics.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drawbotics/file-wrapper"
+  },
+  "keywords": [ "file", "fs", "wrapper" ]
+}
